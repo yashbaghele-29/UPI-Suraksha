@@ -1,0 +1,6 @@
+{
+  "name": "UPI Suraksha",
+  "description": "AI-powered UPI scam and fraud detector for Indian digital payments with hybrid rule engine and multilingual explanations in English, Hindi, and Marathi.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
